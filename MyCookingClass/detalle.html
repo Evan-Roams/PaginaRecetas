@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle de Receta</title>
+    <link rel="shortcut icon" href="Resources/Img/Logo_1.png" type="image/x-icon">
+    <link rel="stylesheet" href="./Styles/detalle.css">
+    <link rel="stylesheet" href="./Styles/Uses/Nav.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Agbalumo&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Barra de navegación -->
+    <nav>
+        <a href="./index.html" class="enlace">
+            <img src="Resources/Img/Logo_1_NoBackground.png" alt="Logo de My Cooking Class">
+            <h1 id="Titulo-Movil" class="logo-letra">My Cooking Class</h1>
+        </a>
+
+        <ul class="menu-horizontal">
+            <li><a class="active" href="./index">Inicio</a></li>
+            <li><a href="./blog">Favoritos</a></li>
+            <li><a href="./my-recipes">Mis Recetas</a></li>
+        </ul>    
+    </nav>
+
+    <div id="Receta_Detalle" style="margin: 20px;">
+        <!-- sirve para mostrar la receta -->
+    </div>
+
+    <script>
+        async function cargarDetalleReceta() {
+            const params = new URLSearchParams(window.location.search);
+            const archivoReceta = params.get("receta");
+
+            if (!archivoReceta) {
+                document.body.innerHTML = "<h1>Receta no encontrada</h1>";
+                return;
+            }
+
+            try {
+                const respuesta = await fetch(archivoReceta);
+                const receta = await respuesta.json();
+
+                const recetaContainer = document.getElementById("Receta_Detalle");
+                recetaContainer.innerHTML = `
+                    <h1>${receta.titulo}</h1>
+                    <img src="${receta.imagen}" alt="${receta.titulo}" class="imagen_receta">
+                    <p><strong>Descripción:</strong> ${receta.descripcion}</p>
+                    <h3>Ingredientes:</h3>
+                    <ul>
+                        ${receta.ingredientes.map(ing => `<li>${ing}</li>`).join("")}
+                    </ul>
+                    <h3>Pasos de preparación:</h3>
+                    <ol>
+                        ${receta.pasos.map(paso => `<li>${paso}</li>`).join("")}
+                    </ol>
+                `;
+            } catch (error) {
+                console.error("Error cargando receta:", error);
+                document.body.innerHTML = "<h1>Error cargando receta</h1>";
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", cargarDetalleReceta);
+    </script>
+</body>
+</html>

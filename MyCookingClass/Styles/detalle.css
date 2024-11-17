@@ -1,0 +1,8 @@
+/* Estilos de las imágenes dentro de las recetas en la página de detalle */
+.imagen_receta {
+    width: 50%;  /* Asegura que todas las imágenes sean del 40% del contenedor */
+    height: auto;  /* Mantiene la proporción de la imagen */
+    display: block;
+    margin: 0 auto;  /* Centra la imagen */
+    border-radius: 8px;  /* Redondea las esquinas de la imagen (opcional) */
+}
