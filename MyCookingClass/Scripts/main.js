@@ -103,4 +103,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Renderizar botones e imágenes
     adminCategorias.renderizar();
+
+    //texto
 });
