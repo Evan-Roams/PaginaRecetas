@@ -1,19 +1,20 @@
 {
     "titulo": "Arepa con Huevo",
-    "descripcion": "Un simpley excelente desayuno con proteina clásica.",
+    "descripcion": "Un simple desayuno nutritivo colombiano ",
     "ingredientes": [
-        "1 taza de harina",
+        "1 taza de harina de maiz",
         "1 taza de leche",
         "1 huevo",
-        "1 cucharada de azúcar",
-        "1 pizca de sal"
+        "2 onzas de queso rayado"
+        
     ],
     "pasos": [
-        "Mezcla todos los ingredientes en un bol.",
-        "Calienta una sartén a fuego medio.",
-        "Vierte un poco de mezcla y cocina hasta que salgan burbujas.",
-        "Dale la vuelta y cocina el otro lado.",
-        "Sirve con miel."
+        "Combine la harina de maíz, el agua, el queso, la leche y la sal, mezclando minuciosamente. Deje reposar la mezcla aproximadamente 5 minutos.",
+        "Prepare las arepas para 18 disco, cada una de aproximadamente 3 pulgadas de diámetro y 1/4 pulgada de gruesa.",
+        "Caliente levemente engrasada con mantequilla. Fría las arepas en grupos hasta que estén crujientes y doradas por ambos lados.",
+        "caliente la sarten a fuego medio",
+        "eche el huevo a la sarten",
+        "espere a que se cocine el huevo y lo deja en la arepa"
     ],
-    "imagen": "Resources/Img/Recetas/Desayunos/PanquequesBasicos.jpg"
+    "imagen": "Resources/Img/Recetas/Desayunos/ArepaConHuevo.jpg"
 }
