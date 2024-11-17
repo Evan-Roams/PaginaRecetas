@@ -1,0 +1,19 @@
+{
+    "titulo": "Panqueques Basicos",
+    "descripcion": "Una receta fácil y deliciosa para un dulce y no muy pesado desayuno.",
+    "ingredientes": [
+        "1 taza de harina",
+        "1 taza de leche",
+        "1 huevo",
+        "1 cucharada de azúcar",
+        "1 pizca de sal"
+    ],
+    "pasos": [
+        "Mezcla todos los ingredientes en un bol.",
+        "Calienta una sartén a fuego medio.",
+        "Vierte un poco de mezcla y cocina hasta que salgan burbujas.",
+        "Dale la vuelta y cocina el otro lado.",
+        "Sirve con miel."
+    ],
+    "imagen": "Resources/Img/Recetas/Desayunos/PanquequesBasicos.jpg"
+}
