@@ -1,21 +1,28 @@
 {
-    "titulo": "changua",
-    "descripcion": "Con arepa, caldo y hasta almojábana la changua seguirá siendo una muy buena opción para empezar su día. Una receta única que traerá los sabores de Boyacá a su paladar. ¡A preparar",
+    "titulo": "Frijolada",
+    "descripcion": "Una deliciosa frijolada tipica",
     "ingredientes": [
-        "2 cabezas de ajo",
-        "4 tazas de leche entera",
-        "2 tazas de agua",
-        "4 huevos",
-        "1 rama de cebolla larga",
-        "1 rama de cilantro",
-        "1 pan tostado ",
-        "4 porceiones de queso doble crema"
+        "1 rama de tomillo",
+        "1 pocillo de cebolla larga finamente picada",
+        "3 pocillos de tomate rojo picado",
+        "2 cucharas de pasta de tomate",
+        "1 pocillo de pimenton rojo picado finamente",
+        "1/2 pocillo de aceite",
+        "1 libra de frijoles previamente remojados",
+        "2 platanos verdes pelados y rallados",
+        "1 pocillo de zanahoria rallada",
+        "Agua suficiente para cocinar frijol",
+        "sal y pimienta al gusto",
+        "1 aguacate",
+        "4 porciones de arroz blanco cocido",
+        "1/2 pocillo de cilantro picado"
     ],
     "pasos": [
-        "En una olla se pone a sofreír el ajo. A continuación, se pone el agua con unas ramas de cebolla larga e inmediatamente después se le ponen los palitos del cilantro, (las hojas se dejan para el picadillo).",
-        "Se le agrega la leche y cuando ya casi esté hirviendo se retira el tallo del cilantro y la cebolla completa. A continuación, se le agrega el huevo con mucho cuidado para no romperlo.",
-        "A la hora de servir se agrega el calado o pan tostado y el queso.",
-        "Por otro lado, preparamos el picadillo (cilantro y cebolla larga finamente picado, si quieres que no se ponga negrito agrégale una cucharadita se aceite)."
+         "En una olla de fondo grueso sofreír en aceite la cebolla, el ajo, el pimentón y una ramita de tomillo. Agregar el tomate, los fríjoles, la zanahoria el plátano, la pezuña, el agua y cocinar hasta que estén.",
+         "blandos. En éste punto agregar la costilla, la carne de cerdo, la oreja, y sazonar con un poco de sal y dejar cocinar a fuego medio hasta que estén cocidas las carnes.",
+         "Aparte cortamos el tocino en 4 partes y lo sazonamos con ajo y lo reservamos 2 minutos;",
+         "lo colocamos a freír a fuego medio hasta que este blando y subimos la temperatura del aceite, para fritarlo hasta que tueste el chicharrón. ",
+         "Servimos los fríjoles en taza, y acompañados de arroz blanco, aguacate, arepa y el chicharon. Decoramos espolvoreando el perejil."
     ],
-    "imagen": "Resources/Img/platosfuertes/changua.jpg"
+    "imagen": "Resources/Img/platosfuertes/frijolada.jpg"
 }
