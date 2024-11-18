@@ -1,0 +1,21 @@
+{
+    "titulo": "Jugo de borojo",
+    "descripcion": "Nuestro espectacular pacífico colombiano nos regala está maravillosa fruta",
+    "ingredientes": [
+        "3 cucharadas grandes pulpa de borojo",
+        "1 cucharadita de canela molida",
+        "1 cucharadita de nuez moscada recion rallada o molida",
+        "4 cucharadas azucar",
+        "1 litro de leche",
+        "1 cucharada de esencia de vanilla",
+        "1 cucharada de kola granulada"
+    ],
+    "pasos": [
+        "Incorporar todos los ingredientes en la licuadora teniendo en cuenta dejar algo de leche puesto que la mezcla se va a tornar un poco espesa a medida que se está licuando",
+        "Si se está pegando mucho la mezcla en la licuadora por la densidad agregar hielo y un poco más de leche con el fín de ayudarle un poco a la licuadora",
+        "sin embargo tener en cuenta que este jugo se consume especialmente de manera expresa notan líquido ",
+        "Claro está que eso es al gusto de cada comensal pero en nuestra región se toma de esa manera.",
+        "Servir el jugo consumir frío y disfrutar nosotros acostumbramos a acompañar esta bebida con unas galletas negras."
+    ],
+    "imagen": "Resources/Img/bebidas/borojo.jpg"
+}
