@@ -1,0 +1,15 @@
+{
+    "titulo": "Fresas con crema",
+    "descripcion": "Unas deliciosas fresas con crema, faciles para comer y disfrutar",
+    "ingredientes": [
+        "3/4 taza de crema de leche",
+        "3 tazas de fesas",
+        "4 cucharadas de leche condensada"
+    ],
+    "pasos": [
+        "En un tazón añade la CREMA DE LECHE NESTLÉ® y con ayuda de un tenedor o batidor de mano, bate por 30 segundos.",
+        "En el fondo de 4 copas o vasos pon la CREMA DE LECHE NESTLÉ® batida y encima pon las fresas divididas en partes iguales.",
+        "Baña por encima con la LECHE CONDENSADA LA LECHERA® y sirve."
+    ],
+    "imagen": "Resources/Img/postres/Fresas-con-Crema.jpg"
+}

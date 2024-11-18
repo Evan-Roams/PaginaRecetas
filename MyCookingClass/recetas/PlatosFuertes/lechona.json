@@ -1,21 +1,23 @@
 {
-    "titulo": "changua",
-    "descripcion": "Con arepa, caldo y hasta almojábana la changua seguirá siendo una muy buena opción para empezar su día",
+    "titulo": "lechona",
+    "descripcion": "Los principales ingredientes de esta propuesta tolimense son la carne, la manteca de cerdo y la arveja cocinada.",
     "ingredientes": [
-        "2 cabezas de ajo",
-        "4 tazas de leche entera",
-        "2 tazas de agua",
-        "4 huevos",
-        "1 rama de cebolla larga",
-        "1 rama de cilantro",
-        "1 pan tostado ",
-        "4 porceiones de queso doble crema"
+        "1 lechon",
+        "manteca de cerdo",
+        "cebolla larga",
+        "arroz",
+        "Ajos",
+        "Naranjas",
+        "Sal y pimienta",
+        "comino"
     ],
     "pasos": [
-        "En una olla se pone a sofreír el ajo. A continuación, se pone el agua con unas ramas de cebolla larga e inmediatamente después se le ponen los palitos del cilantro, (las hojas se dejan para el picadillo).",
-        "Se le agrega la leche y cuando ya casi esté hirviendo se retira el tallo del cilantro y la cebolla completa. A continuación, se le agrega el huevo con mucho cuidado para no romperlo.",
-        "A la hora de servir se agrega el calado o pan tostado y el queso.",
-        "Por otro lado, preparamos el picadillo (cilantro y cebolla larga finamente picado, si quieres que no se ponga negrito agrégale una cucharadita se aceite)."
+        "Extrae la carne con mucho cuidado, con el fin de no romper la piel, pero dejando la cabeza intacta.",
+        "Para darle mejor sabor a la parte externa de la lechona se le debe añadir sal, lo que le dará mejor cocción, color y presentación.",
+        "La carne de cerdo extraída se pica en trozos, se adoba con cebolla finamente picada, ajos triturados, agua, sal, pimienta y cominos.",
+        "La parte de las costillas no se debe separar de la piel, la idea es conservar la estructura del lechón.",
+        "En una olla o perol bien grande agrega y comienza a freír todo lo que será el relleno: arvejas, manteca de cerdo, cebollas y ajos, y desde luego los trozos de carne de cerdo.",
+        "Se rellena la lechona y al final se cose en punto de cruz; luego se lleva al horno en una parrilla con huecos para que escurra toda la grasa. Antes de iniciar su cocción, la lechona se baña en jugo de naranja agria con el fin de que la parte externa quede tostada y crocante." 
     ],
-    "imagen": "Resources/Img/platosfuertes/changua.jpg"
+    "imagen": "Resources/Img/platosfuertes/lechona.jpg"
 }
