@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Agregar categorías con enlaces
     adminCategorias.agregarCategoria(new Categoria("Desayunos", "Resources/Img/Desayunos1.jpg", "desayunos.html"));
-    adminCategorias.agregarCategoria(new Categoria("Platos Fuertes", "Resources/Img/PlatosFuertes1.png", "platosfuertes.html"));
+    adminCategorias.agregarCategoria(new Categoria("Platos Fuertes", "Resources/Img/PlatosFuertes1.png", "platosFuertes.html"));
     adminCategorias.agregarCategoria(new Categoria("Bebidas", "Resources/Img/Bebidas1.png", "bebidas.html"));
     adminCategorias.agregarCategoria(new Categoria("Postres", "Resources/Img/Postres1.png", "postres.html"));
 
