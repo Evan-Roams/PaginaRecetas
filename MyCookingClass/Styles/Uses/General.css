@@ -1,0 +1,6 @@
+.receta-card img {
+    width: 300px; /* Ancho fijo */
+    height: 200px; /* Alto fijo */
+    object-fit: cover; /* Asegura que la imagen se recorte y cubra el área sin distorsionar */
+    border-radius: 8px; /* Redondeo de esquinas de la imagen */
+}

@@ -25,6 +25,15 @@ async function cargarRecetas() {
             recetaCard.style.boxShadow = "0 2px 5px rgba(0,0,0,0.1)";
             recetaCard.style.cursor = "pointer";
 
+            // Crear imagen de la receta con tamaño fijo
+            const recetaImage = document.createElement("img");
+            recetaImage.src = receta.imagen;
+            recetaImage.alt = receta.titulo;
+            recetaImage.style.width = "300px";  // Ancho fijo
+            recetaImage.style.height = "200px"; // Alto fijo
+            recetaImage.style.objectFit = "cover"; // Ajusta la imagen para cubrir el espacio sin distorsionar
+            recetaImage.style.borderRadius = "8px"; // Esquinas redondeadas
+
             // Mostrar título, descripción e imagen
             recetaCard.innerHTML = `
                 <img src="${receta.imagen}" alt="${receta.titulo}" style="width: 100%; border-radius: 8px;">
