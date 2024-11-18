@@ -1,11 +1,12 @@
 {
-    "titulo": "Jugo de mango",
+    "titulo": "Mangonada",
     "descripcion": "una refrescante bebida",
     "ingredientes": [
         "3 mangos grandes",
         "80 ml de agua",
         "azucar al gusto",
-        "hielo opcional"
+        "hielo opcional",
+        "una rodaja de limon"
     ],
     "pasos": [
         "En la licuadora colocar los mangos, el agua y licuar a velocidad alta. Los mangos son naturalmente dulces pero si desea puede adicionar azúcar",
