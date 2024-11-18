@@ -8,7 +8,7 @@ async function cargarRecetas() {
             "recetas/Desayunos/panqueques.json",
             "recetas/Desayunos/huevosFritos.json",
             "recetas/Desayunos/ArepaEHuevo.json",
-            "recetas/Desayunos/panquequeFresa.json"
+            "recetas/Desayunos/panquequesFresa.json"
         ];
 
         // Procesar cada archivo
