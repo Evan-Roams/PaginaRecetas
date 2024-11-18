@@ -1,15 +1,20 @@
 {
-    "titulo": "Fresas con crema",
-    "descripcion": "Unas deliciosas fresas con crema, faciles para comer y disfrutar",
+    "titulo": "Postre de maracuya",
+    "descripcion": "Un delicioso postre de maracuya fresco para el dia",
     "ingredientes": [
-        "3/4 taza de crema de leche",
-        "3 tazas de fesas",
-        "4 cucharadas de leche condensada"
+        "10 galletas saltinas",
+        "4 cucharadas de mantequilla",
+        "1/2 taza de leche condensada",
+        "1/2 de taza de crema de leche",
+        "1 taza de pulpa de maracuya",
+        "2 sobres de gelatina sin sabor disuelta en 4 cucharadas de agua tibia"
     ],
     "pasos": [
-        "En un tazón añade la CREMA DE LECHE NESTLÉ® y con ayuda de un tenedor o batidor de mano, bate por 30 segundos.",
-        "En el fondo de 4 copas o vasos pon la CREMA DE LECHE NESTLÉ® batida y encima pon las fresas divididas en partes iguales.",
-        "Baña por encima con la LECHE CONDENSADA LA LECHERA® y sirve."
+        "Tritura en un tazón las GALLETAS SALTINAS DORÉ® y mezcla con la mantequilla derretida hasta integrar bien. En un molde mediano, preferiblemente desmoldable, pon las galletas y presiona con las manos para cubrir el fondo y un poco los bordes. Lleva el molde al congelador por 20 minutos para que se pegue bien la galleta.",
+        "Añade al vaso de la licuadora la LECHE CONDENSADA LA LECHERA®, la CREMA DE LECHE NESTLÉ®, la pulpa de maracuyá y la gelatina sin sabor disuelta.",
+        "Licúa por 10 segundos o hasta integrar bien. Retira el molde del congelador y vierte la mezcla sobre la galleta.",
+        "Lleva el molde a la nevera y deja por 3 horas aproximadamente o hasta que el postre cuaje.",
+        "Pasado este tiempo, retira el molde y sirve el postre en porciones iguales."
     ],
-    "imagen": "Resources/Img/postres/Fresas-con-Crema.jpg"
+    "imagen": "Resources/Img/postres/maracuya.jpeg"
 }
