@@ -1,0 +1,21 @@
+{
+    "titulo": "Pasta Bolognesa",
+    "descripcion": "Una receta fácil y deliciosa para un dulce y no muy pesado desayuno.",
+    "ingredientes": [
+        "500 g carne picada",
+        "1 cebolla grande",
+        "2 zanahoria",
+        "2 tomate pera",
+        "2 cucharadas de tomate concentrado",
+        "100 ml vino blanco",
+        "200 ml de agua"
+    ],
+    "pasos": [
+        "Comenzamos picando en trozos muy pequeños las zanahorias, el apio y el diente de ajo. La cebolla también la cortamos en brunoise muy fino,.",
+        "de forma que todas las hortalizas tengan así un tamaño similar al de la carne, para que no destaquen sobre ella. Las pochamos con.",
+        "aceite de oliva durante diez minutos a fuego lento. Añadimos la carne picada. Cuando la carne picada haya cambiado de color, agregamos el vino blanco y dejamos que se evapore mientras removemos.",
+        "Después agregamos el tomate picado en trozos un vaso de agua y el concentrado de tomate, dejando que todo se cocine durante unos veinte minutos más.",
+        "Para que no se quede seca la salsa en tan larga cocción, podemos ir añadiendo agua, caldo o vino cuando veamos que se está secando mucho."
+    ],
+    "imagen": "Resources/Img/platosfuertes/pastaboloñesa.jpeg"
+}
