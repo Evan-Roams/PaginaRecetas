@@ -1,21 +1,21 @@
 {
-    "titulo": "Pasta Bolognesa",
-    "descripcion": "Una receta fácil y deliciosa para un dulce y no muy pesado desayuno.",
+    "titulo": "changua",
+    "descripcion": "Con arepa, caldo y hasta almojábana la changua seguirá siendo una muy buena opción para empezar su día. Una receta única que traerá los sabores de Boyacá a su paladar. ¡A preparar",
     "ingredientes": [
-        "500 g carne picada",
-        "1 cebolla grande",
-        "2 zanahoria",
-        "2 tomate pera",
-        "2 cucharadas de tomate concentrado",
-        "100 ml vino blanco",
-        "200 ml de agua"
+        "2 cabezas de ajo",
+        "4 tazas de leche entera",
+        "2 tazas de agua",
+        "4 huevos",
+        "1 rama de cebolla larga",
+        "1 rama de cilantro",
+        "1 pan tostado ",
+        "4 porceiones de queso doble crema"
     ],
     "pasos": [
-        "Comenzamos picando en trozos muy pequeños las zanahorias, el apio y el diente de ajo. La cebolla también la cortamos en brunoise muy fino,.",
-        "de forma que todas las hortalizas tengan así un tamaño similar al de la carne, para que no destaquen sobre ella. Las pochamos con.",
-        "aceite de oliva durante diez minutos a fuego lento. Añadimos la carne picada. Cuando la carne picada haya cambiado de color, agregamos el vino blanco y dejamos que se evapore mientras removemos.",
-        "Después agregamos el tomate picado en trozos un vaso de agua y el concentrado de tomate, dejando que todo se cocine durante unos veinte minutos más.",
-        "Para que no se quede seca la salsa en tan larga cocción, podemos ir añadiendo agua, caldo o vino cuando veamos que se está secando mucho."
+        "En una olla se pone a sofreír el ajo. A continuación, se pone el agua con unas ramas de cebolla larga e inmediatamente después se le ponen los palitos del cilantro, (las hojas se dejan para el picadillo).",
+        "Se le agrega la leche y cuando ya casi esté hirviendo se retira el tallo del cilantro y la cebolla completa. A continuación, se le agrega el huevo con mucho cuidado para no romperlo.",
+        "A la hora de servir se agrega el calado o pan tostado y el queso.",
+        "Por otro lado, preparamos el picadillo (cilantro y cebolla larga finamente picado, si quieres que no se ponga negrito agrégale una cucharadita se aceite)."
     ],
-    "imagen": "Resources/Img/platosfuertes/pastaboloñesa.jpeg"
+    "imagen": "Resources/Img/platosfuertes/changua.jpg"
 }
