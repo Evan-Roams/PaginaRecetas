@@ -6,7 +6,10 @@ async function cargarRecetas() {
         // Lista de archivos JSON
         const archivosRecetas = [
             "recetas/PlatosFuertes/pastaBolognesa.json",
-            "recetas/PlatosFuertes/changua.json"
+            "recetas/PlatosFuertes/changua.json",
+            "recetas/PlatosFuertes/frijolada.json",
+            "recetas/PlatosFuertes/lechona.json"
+
         ];
 
         // Procesar cada archivo
