@@ -7,7 +7,8 @@ async function cargarRecetas() {
         const archivosRecetas = [
             "recetas/Desayunos/panqueques.json",
             "recetas/Desayunos/huevosFritos.json",
-            "recetas/Desayunos/ArepaEHuevo.json"
+            "recetas/Desayunos/ArepaEHuevo.json",
+            "recetas/Desayunos/panquequeFresa.json"
         ];
 
         // Procesar cada archivo
