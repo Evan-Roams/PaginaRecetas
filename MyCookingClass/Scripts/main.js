@@ -87,6 +87,38 @@ class AdministradorCategorias {
     }
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+    // Contenedor de imagen
+    const imagenPopulares = document.querySelector("#Populares_Imagen img");
+
+    // Mapeo de botones e imágenes correspondientes
+    const botonesConImagenes = [
+        { id: "populares_boton_1", imagen: "Resources/Img/platosfuertes/Changua.jpg" },
+        { id: "populares_boton_2", imagen: "Resources/Img/platosfuertes/pastabolognesa.jpeg" },
+        { id: "populares_boton_3", imagen: "Resources/Img/Recetas/Desayunos/ArepaConHuevo.jpg" },
+        { id: "populares_boton_4", imagen: "Resources/Img/postres/milhoja.jpeg" },
+        { id: "populares_boton_5", imagen: "Resources/Img/bebidas/borojo.jpg" },
+        { id: "populares_boton_6", imagen: "Resources/Img/desayunos/panquequefresa.jpg" },
+    ];
+
+    // Asignar evento a cada botón
+    botonesConImagenes.forEach((boton) => {
+        const botonElemento = document.getElementById(boton.id);
+
+        if (botonElemento) {
+            botonElemento.addEventListener("mouseover", () => {
+                imagenPopulares.src = boton.imagen;
+            });
+
+            // Opcional: restaurar imagen al salir del hover
+            botonElemento.addEventListener("mouseout", () => {
+                imagenPopulares.src = "Resources/Img/Desayunos1.jpg";
+            });
+        }
+    });
+});
+
+
 // Inicializar el sistema
 document.addEventListener("DOMContentLoaded", () => {
     const contenedorBotones = document.getElementById("Categorias_Botones");
@@ -106,5 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //texto
 });
+
+
 
 
